@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Sagari%20K%20M/Desktop/ml/mlruns/395708365570220840/models/m-2f0cdc144070454eb28874dfbc84b75f/artifacts
+creation_timestamp: 1755846191385
+experiment_id: '395708365570220840'
+last_updated_timestamp: 1755846200708
+model_id: m-2f0cdc144070454eb28874dfbc84b75f
+model_type: null
+name: logistic_regression_model
+source_run_id: 5e62a11808d14dc5880178115f2cd184
+status: 2
+status_message: null

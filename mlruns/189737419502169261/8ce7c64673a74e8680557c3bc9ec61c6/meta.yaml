@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Sagari%20K%20M/Desktop/ml/mlruns/189737419502169261/8ce7c64673a74e8680557c3bc9ec61c6/artifacts
+end_time: 1755851754387
+entry_point_name: ''
+experiment_id: '189737419502169261'
+lifecycle_stage: active
+run_id: 8ce7c64673a74e8680557c3bc9ec61c6
+run_name: logistic_regression_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755851746606
+status: 3
+tags: []
+user_id: Sagari K M

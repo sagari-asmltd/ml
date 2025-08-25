@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/Sagari K M/Desktop/ml/mlartifacts/3/models/m-62d736dc9e734893be7da863d0e3db55/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.1
+model_id: m-62d736dc9e734893be7da863d0e3db55
+model_size_bytes: 1016
+model_uuid: m-62d736dc9e734893be7da863d0e3db55
+prompts: null
+run_id: bb7b5d3969384a6386377c9b11cbd6e5
+utc_time_created: '2025-08-22 07:20:54.239956'

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Sagari%20K%20M/Desktop/ml/mlruns/189737419502169261/models/m-05a75a95e32746a8903215348c00153d/artifacts
+creation_timestamp: 1755851746736
+experiment_id: '189737419502169261'
+last_updated_timestamp: 1755851754355
+model_id: m-05a75a95e32746a8903215348c00153d
+model_type: null
+name: model
+source_run_id: 8ce7c64673a74e8680557c3bc9ec61c6
+status: 2
+status_message: null

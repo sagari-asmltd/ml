@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Sagari%20K%20M/Desktop/ml/mlruns/530621801249447189/44fba82351a64e51ae00eed979f9feaf/artifacts
+end_time: 1755851942852
+entry_point_name: ''
+experiment_id: '530621801249447189'
+lifecycle_stage: active
+run_id: 44fba82351a64e51ae00eed979f9feaf
+run_name: logreg_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755851935084
+status: 3
+tags: []
+user_id: Sagari K M
